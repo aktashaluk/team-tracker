@@ -1,0 +1,9 @@
+Task 1: 
+open a ticket
+write your daily logs and activities
+Task 2:
+create CI/CD pipelines
+Task 3:
+add a log monitor app
+Task 4:
+create a AWS account
