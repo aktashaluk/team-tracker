@@ -1,0 +1,3 @@
+2019-11-01: First status log from Julia
+2020-01-15: Second status log from Julia
+2026-04-10: Third status log from Julia
