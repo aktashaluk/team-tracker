@@ -1,3 +1,3 @@
 Bahattin bahattin@gmail.com Develeper B Responsible with Python app.
 Nao	 nao@gmail.com      Developer C Responsible with GitHub organization
-
+Julia	 julia@gmail.com    Developer C Responsible for SQl app
