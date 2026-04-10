@@ -6,3 +6,4 @@
 	add a log monitor app
 [NOT URGENT]Task 4:
 	create a AWS account
+These tasks can ve ignored after they were resolved.
