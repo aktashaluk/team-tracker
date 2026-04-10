@@ -1,4 +1,4 @@
 ## Features:
- - [] Feature A: User List
- - [] Feature B: TAsk Board
- - [] Feature C: Status Log
+ - [x] Feature A: User List
+ - [x] Feature B: TAsk Board
+ - [x] Feature C: Status Log
