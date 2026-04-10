@@ -1,5 +1,4 @@
 Task 1: 
-open a ticket
 write your daily logs and activities
 Task 2:
 create CI/CD pipelines
