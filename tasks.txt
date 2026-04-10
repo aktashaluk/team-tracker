@@ -1,8 +1,8 @@
-Task 1: 
-write your daily logs and activities
-Task 2:
-create CI/CD pipelines
-Task 3:
-add a log monitor app
-Task 4:
-create a AWS account
+[HIGH]Task 1: 
+	write your daily logs and activities
+[MEDIUM]Task 2:
+	create CI/CD pipelines
+[LOW]Task 3:
+	add a log monitor app
+[NOT URGENT]Task 4:
+	create a AWS account
